@@ -75,7 +75,7 @@ Workstation 12.x
 | BusLogic | ⚠ Legacy | Not recommended |
 
 **To change SCSI Controller:**  
-VM Settings → Hardware → **SCSI Controller** → Set to:
+Right click VM → Edit Settings → Hardware → **SCSI Controller** → Set to:
 
 ```
 LSI Logic SAS
