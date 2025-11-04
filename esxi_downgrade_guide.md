@@ -112,7 +112,7 @@ Avoids import checksum errors.
 Edit `.ovf` and replace:
 
 ```
-<vssd:VirtualSystemType>**vmx-19**</vssd:VirtualSystemType>
+<vssd:VirtualSystemType>vmx-19</vssd:VirtualSystemType>
 ```
 
 with:
